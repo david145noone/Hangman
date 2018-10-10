@@ -1,4 +1,4 @@
-A simple 2 player game of hangman. 
+A simple 2 player game of hangman, written as a personal C practice project.  
 
 Contraints: 
 
