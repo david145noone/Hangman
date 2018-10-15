@@ -8,12 +8,16 @@ Contraints:
 
 Updates: 
 
-09.10.2018
+-------------09.10.2018-----------------
 Intital code not working properly, changed Userguess function.
 
-10.10.2018
+-------------10.10.2018-----------------
 First operational version of the program. 
 Possible feature addtions: 
 1) An array which stores incorrect guesses
 2) A way to exit the letter guessing loop early to manually guess the word with chance of instant loss
 3) An option to go again if a certain key is entered or exit if another key is entered. 
+
+-------------15.10.2018-----------------
+Added a function that tells the user that they got the correct word and exits the program once that has happned.
+
